@@ -1,3 +1,3 @@
-const _ = require('lodash')
+const userName = process.env.userName
 
-console.log('Hello, ' + _.capitalize('javascript'))
+console.log(`Hello, ${userName}`)

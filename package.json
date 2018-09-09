@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "demo": "node hello.js"
+    "demo": "ENV userName=Freewind node hello.js"
   },
   "dependencies": {
     "lodash": "^4.17.10"
