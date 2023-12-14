@@ -1,8 +1,8 @@
 {
-  "scripts": {
-    "demo": "ENV userName=Freewind node hello.js"
-  },
-  "dependencies": {
-    "lodash": "^4.17.10"
-  }
+    "scripts": {
+        "start": "ENV userName=Freewind node hello.js"
+    },
+    "dependencies": {
+        "lodash": "^4.17.10"
+    }
 }
